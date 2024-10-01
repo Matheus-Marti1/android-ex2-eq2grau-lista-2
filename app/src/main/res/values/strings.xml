@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ex2Atv2AreaTrapezio</string>
+    <string name="nome_aluno">Matheus Augusto Marti</string>
+    <string name="ra_aluno">RA: 1110482313017</string>
+    <string name="area_trapezio">Área de Trapézio</string>
+    <string name="base_maior">Insira a base maior</string>
+    <string name="base_menor">Insira a base menor</string>
+    <string name="altura">Insira a altura</string>
+    <string name="calcular">Calcular</string>
+</resources>
